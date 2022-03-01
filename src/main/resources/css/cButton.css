@@ -1,0 +1,26 @@
+.button{
+    -fx-background-color: red;
+}
+.btn_type_private{
+    -fx-background-color: #1890FF;
+    -fx-text-fill: white;
+}
+.btn_type_private:hover{
+    -fx-background-color: #40A9FF;
+}
+
+.btn_type_default{
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+.btn_type_default:hover{
+    -fx-text-fill: #40A9FF;
+}
+
+.btn_type_dashed{
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+.btn_type_dashed:hover{
+    -fx-text-fill: #40A9FF;
+}
